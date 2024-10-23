@@ -1,15 +1,17 @@
 .obsidian
 Attachments
-BCiriak
 Business
 Excalidraw
-Finance
 Home Assistant
-Personal
 PLAYGROUND
+Personal
 Recipes
 Svadba
 Users
 Web vista
 _templates
 _views
+
+BCiriak/*
+
+!BCiriak/Blog
