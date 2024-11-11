@@ -1,0 +1,1 @@
+This article will be about authentication and authorization in NextJS.
